@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Blaise Uwaforo</h1>
 <h3 align="center">A passionate frontend & Backend developer in Germany</h3>
-<img align="right" alt="coding" width="500" src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80">
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadonblaise&label=Profile%20views&color=0e75b6&style=flat" alt="jadonblaise" /> </p>
 
