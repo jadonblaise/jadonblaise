@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadonblaise&label=Profile%20views&color=0e75b6&style=flat" alt="jadonblaise" /> </p>
 
-- 🔭 I’m currently working on **Warehous Project**
+- 🔭 I’m currently working on **Warehouse Project**
 
 - 🌱 I’m currently learning **Python, Data Base, Cloud Services**
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/blaise-chinedu-9b342b1a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/blaise-chinedu-9b342b1a4" height="30" width="40" /> <<< Tap Here</a>
+<a href="https://linkedin.com/in/blaise-chinedu-9b342b1a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/blaise-chinedu-9b342b1a4" height="30" width="40" /> <<< LinkedIn Profile</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
