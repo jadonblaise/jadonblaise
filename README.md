@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Blaise Uwaforo</h1>
-<h3 align="center">A passionate Electrical / Electronics Engineer who is interested in software development than hardware design. Switched career to learn programing Languages</h3>
+<h3 align="center">A passionate Electrical / Electronics Engineer who is interested in software development than hardware design. Switched career to learn programming Languages</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadonblaise&label=Profile%20views&color=0e75b6&style=flat" alt="jadonblaise" /> </p>
