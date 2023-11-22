@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Blaise Uwaforo</h1>
-<h3 align="center">A passionate Electrical / Electronics Engineer who is interested in software development than hardware design.</h3>
+<h3 align="center">Highly motivated and dedicated Python backend developer, who recently
+graduated from a 1 year intensive training in Back-End programming. Seeking
+an opportunity to contribute my skills and knowledge in a challenging and
+dynamic work environment. I am eager to apply my programming expertise to
+develop efficient and scalable solutions for web applications.</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadonblaise&label=Profile%20views&color=0e75b6&style=flat" alt="jadonblaise" /> </p>
