@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Engr. Blaise Uwaforo</h1>
-<h3 align="center">Highly motivated and dedicated Python backend developer & Data Analyst. 
+<h3 align="center">Highly motivated and dedicated Data Analyst & Python backend developer. 
   Seeking an opportunity to contribute my skills and knowledge in a challenging and
 dynamic work environment. I am eager to apply my programming expertise to
 develop efficient and scalable solutions for web applications.</h3>
