@@ -1,15 +1,28 @@
 <h1 align="center">Hi 👋, I'm Engr. Blaise Uwaforo</h1>
-<h3 align="center">Highly motivated and dedicated Data Analyst & Python backend developer. 
-  Seeking an opportunity to contribute my skills and knowledge in a challenging and
-dynamic work environment. I am eager to apply my programming expertise to
-develop efficient and scalable solutions for web applications.</h3>
+<h3 align="center">Python Developer with 4+ years of experience building scalable web applications and performing data-driven analysis. Skilled in Django, Streamlit, Pandas, and NumPy, with hands-on experience in SAP data uploads and process automation. Currently working as a Working Student at Saint-Gobain Glass, Porz Cologne, Germany, contributing to digital transformation initiatives.</h3>
+
+Core Expertise:
+
+Django • REST APIs • AWS • PostgreSQL • DevOps
+
+Data Analysis (Pandas & NumPy) • Streamlit • SAP Automation
+
+Key Achievements:
+
+Developed a Streamlit-based SAP forecast upload tool, streamlining internal reporting.
+
+Optimized API performance, improving issue resolution rates by 15%.
+
+Developed an automated page-access tracking system using Python
+
+Passionate about solving complex technical problems and delivering clean, maintainable, and efficient code that drives measurable impact.
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadonblaise&label=Profile%20views&color=0e75b6&style=flat" alt="jadonblaise" /> </p>
 
-- 🔭 I’m currently pursuing a Masters in **Technical Management** at **Rheinische Fachhochschule Köln**
+- 🔭 I’m currently pursuing a Masters Degree in **Technical Management** at **Rheinische Fachhochschule Köln**
 
-- 💬 Ask me about **Data Analysis, HTML, CSS, Python, PostgreSQL**
+- 💬 Ask me about **Data Analysis, Python, PostgreSQL**
 
 - 📫 How to reach me **blaise180@outlook.com**
 
