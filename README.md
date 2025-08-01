@@ -20,7 +20,7 @@ Passionate about solving complex technical problems and delivering clean, mainta
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadonblaise&label=Profile%20views&color=0e75b6&style=flat" alt="jadonblaise" /> </p>
 
-- 🔭 I’m currently pursuing a Masters Degree program in **Technical Management** at **Rheinische Fachhochschule Köln**
+- 🔭 Currently pursuing a Masters Degree program in **Technical Management** at **Rheinische Fachhochschule Köln**
 
 - 💬 Let's talk about **Data Analysis, Python & Cloud computing**
 
