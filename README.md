@@ -15,6 +15,8 @@ Optimized API performance, improving issue resolution rates by 15%.
 
 Developed an automated page-access tracking system using Python
 
+Developed a fully functional movie website from the ground up using Django (Python), integrating RESTful APIs, AWS services for deployment and storage, and responsive front-end design with Bootstrap.
+
 Passionate about solving complex technical problems and delivering clean, maintainable, and efficient code that drives measurable impact.
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU">
 
