@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Engr. Blaise Uwaforo</h1>
-<h3 align="center">Python Developer with 4+ years of experience building scalable web applications and performing data-driven analysis. Skilled in Django, Streamlit, Pandas, and NumPy, with hands-on experience in SAP data uploads and process automation. Currently working as a Working Student at Saint-Gobain Glass, Porz Cologne, Germany, contributing to digital transformation initiatives.</h3>
+<h3 align="center">Python Developer with 4+ years of experience building scalable web applications and performing data-driven analysis. Skilled in Django, Streamlit, Pandas and NumPy, with hands-on experience in SAP data uploads and process automation. Currently working as a Working Student at Saint-Gobain Glass, Porz Cologne, Germany, contributing to digital transformation initiatives.</h3>
 
 Core Expertise:
 
