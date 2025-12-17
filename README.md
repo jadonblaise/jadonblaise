@@ -6,6 +6,7 @@ Currently working on PYTOMATOM, a Django-based system for optimizing order and r
 I also work with data processing and analytics, developing Streamlit apps and automated pipelines using Pandas and NumPy. I value clean code, testing (pytest), and collaborative Agile development.
 
 📍 Cologne, Germany | Open to Python / Backend roles
+
 🔧 Python • Django • FastAPI • REST APIs • AWS • Docker • Redis • Grafana
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU">
 
