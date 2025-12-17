@@ -1,32 +1,21 @@
 <h1 align="center">Hi 👋, I'm Engr. Blaise Uwaforo</h1>
-<h3 align="center">Python Developer with 4+ years of experience building scalable web applications and performing data-driven analysis. Skilled in Django, Streamlit, Pandas and NumPy, with hands-on experience in SAP data uploads and process automation. Currently working as a Working Student at Saint-Gobain Glass, Porz Cologne, Germany, contributing to digital transformation initiatives.</h3>
+<h3 align="center">Python Backend Developer with 4+ years of experience building scalable, production-ready applications. Strong focus on Django, REST APIs, PostgreSQL, and AWS, with hands-on experience delivering real business impact.</h3>
 
-Core Expertise:
+Currently working on PYTOMATOM, a Django-based system for optimizing order and request processing. I build secure APIs (JWT, OAuth2), containerize services with Docker, handle async workflows using Celery & Redis, and create Grafana dashboards to track system performance and operational KPIs.
 
-Django • REST APIs • AWS • PostgreSQL • DevOps
+I also work with data processing and analytics, developing Streamlit apps and automated pipelines using Pandas and NumPy. I value clean code, testing (pytest), and collaborative Agile development.
 
-Data Analysis (Pandas & NumPy) • Streamlit • SAP Automation
-
-Key Achievements:
-
-Developed a Streamlit-based SAP forecast upload tool, streamlining internal reporting.
-
-Optimized API performance, improving issue resolution rates by 15%.
-
-Developed an automated page-access tracking system using Python
-
-Developed a fully functional movie website from the ground up using Django (Python), integrating RESTful APIs, AWS services for deployment and storage, and responsive front-end design with Bootstrap.
-
-Passionate about solving complex technical problems and delivering clean, maintainable, and efficient code that drives measurable impact.
+📍 Cologne, Germany | Open to Python / Backend roles
+🔧 Python • Django • FastAPI • REST APIs • AWS • Docker • Redis • Grafana
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadonblaise&label=Profile%20views&color=0e75b6&style=flat" alt="jadonblaise" /> </p>
 
 - 🔭 Currently pursuing a Masters Degree program in **Technical Management** at **Rheinische Fachhochschule Köln**
 
-- 💬 Let's talk about **Data Analysis, Python & Cloud computing**
+- 💬 Let's talk about **Data Analysis, Python & Devops**
 
-- 📫 How to reach me **blaise180@outlook.com**
+- 📫 How to reach me **Blaise180@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
